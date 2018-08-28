@@ -1339,26 +1339,10 @@ header .logo a {
 	margin-left: auto;
 	margin-right: auto;
 	text-shadow: 0 0 20px rgba(0, 0, 0, 0.5);
-	animation: typing 3.5s steps(40, end),
+	
     	
 }
 
-/* The typing effect */
-@-webkit-keyframes typing {
-    from { width: 0 }
-    to { width:16.3em }
-}
-
-@-moz-keyframes typing {
-    from { width: 0 }
-    to { width:16.3em }
-}
-  
-  /* The typewriter cursor effect */
-  @keyframes blink-caret {
-	from, to { border-color: transparent }
-	50% { border-color: orange; }
-  }
 
 .intro-content h5 {
 	color: #cc005f;
