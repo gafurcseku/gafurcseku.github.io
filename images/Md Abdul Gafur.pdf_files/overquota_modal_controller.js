@@ -1,0 +1,2 @@
+define(["require","exports","tslib","external/react","modules/clean/analytics","modules/clean/react/overquota_modal","modules/clean/react/modal"],function(e,a,o,l,t,r,n){"use strict";function s(e){var a=l.createElement(r.OverquotaModal,o.__assign({},e));n.Modal.showInstance(a),t.NQOQLogger.logViewModal(e.oqa,{modal_type:"billboard"})}Object.defineProperty(a,"__esModule",{value:!0}),a.showOverquota=s});
+//# sourceMappingURL=overquota_modal_controller.min.js-vflBRKNND.map

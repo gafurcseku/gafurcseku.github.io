@@ -1701,18 +1701,26 @@ header .logo a {
 }
 #resume .timeline-content h4 {
 	position: relative;
-	padding-bottom: 1.8rem;
+	padding-bottom: 1.8rem
 }
 #resume .timeline-content h4::after {
 	content: "";
 	display: block;
 	height: 3px;
 	width: 50px;
-	background: rgba(0, 0, 0, 0.2);
 	position: absolute;
+	background: rgba(0, 0, 0, 0.2);
 	left: 0;
 	bottom: 0;
 }
+
+#resume .timeline-content p {
+	font-family: "poppins-regular", sans-serif;
+	font-size: 1.6rem;
+	color: #888888;
+}
+
+
 
 /**
  * responsive:

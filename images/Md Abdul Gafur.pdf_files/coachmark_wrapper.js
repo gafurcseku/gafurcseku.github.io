@@ -1,0 +1,2 @@
+define(["require","exports","external/react","modules/clean/react/file_viewer/open_button/open_button_coachmark"],function(e,n,r,o){"use strict";Object.defineProperty(n,"__esModule",{value:!0}),n.OpenButtonCoachmarkWrapper=function(e){return r.createElement("div",{className:"c-coach-mark__container"},e.shouldShowCoachmark?r.createElement(o.OpenButtonCoachmark,{file:e.file,user:e.user,inDropdown:e.inDropdown}):null,e.children)}});
+//# sourceMappingURL=coachmark_wrapper.min.js-vflXYT_7w.map

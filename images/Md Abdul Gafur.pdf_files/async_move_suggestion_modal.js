@@ -1,0 +1,2 @@
+define(["require","exports"],function(e,n){"use strict";function o(n){e(["modules/clean/react/move_suggestion_modal"],n)}function t(e){o(function(n){return(0,n.show)(e)})}Object.defineProperty(n,"__esModule",{value:!0}),n.show=t});
+//# sourceMappingURL=async_move_suggestion_modal.min.js-vfl2cr35i.map
