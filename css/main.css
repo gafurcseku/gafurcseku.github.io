@@ -1714,9 +1714,9 @@ header .logo a {
 	bottom: 0;
 }
 
-#resume .timeline-content p {
+#resume .timeline-content h4 span {
 	font-family: "poppins-regular", sans-serif;
-	font-size: 1.6rem;
+	font-size: 1.4rem;
 	color: #888888;
 }
 
