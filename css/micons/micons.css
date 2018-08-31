@@ -24,6 +24,29 @@
     -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-android:before {
+    content: "\e901";
+  }
+
+  .icon-phone_iphone:before {
+    content: "\e900";
+  }
+
+  .icon-bubbles:before {
+    content: "\e904";
+  }
+  .icon-tools:before {
+    content: "\e903";
+  }
+
+  .icon-photo:before {
+    content: "\e902";
+  }
+
+  .icon-newspaper-alt:before {
+    content: "\e906";
+  }
+
 .icon-align-center:before {
     content: "\e900";
 }
